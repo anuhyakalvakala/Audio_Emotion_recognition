@@ -219,4 +219,4 @@ Classification matrix:
  
  
 Comparing all the models  MLP classifier and neural networks works best with 72 % and 70 % of accuracy when built on 70% data and tested on 20% of the data. As we see we didn’t have the great accuracy but increasing the training data would increase the accuracy and give the excellent results to the data. We can also convert of audio data into image data using spectrogram and make those data work with CNN and further analyze on them .
-![image](https://user-images.githubusercontent.com/96926526/225809829-293ff183-fb5f-4ef0-a550-def4e565dc42.png)
+
